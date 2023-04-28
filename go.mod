@@ -1,4 +1,4 @@
-module github.com/coinbase/kryptology
+module github.com/The9born/kryptology
 
 go 1.19
 
