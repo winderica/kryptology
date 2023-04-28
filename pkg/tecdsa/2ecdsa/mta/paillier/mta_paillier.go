@@ -6,12 +6,12 @@ import (
 
 	"github.com/coinbase/kryptology/pkg/core/curves"
 	"github.com/coinbase/kryptology/pkg/paillier"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/qr"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/qrdl"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/r_affran"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/r_p"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/r_pwr"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/qr"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/qrdl"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/r_affran"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/r_p"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk/r_pwr"
 	"github.com/gtank/merlin"
 )
 

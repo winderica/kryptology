@@ -7,7 +7,7 @@ import (
 
 	"github.com/coinbase/kryptology/pkg/core/curves"
 	"github.com/coinbase/kryptology/pkg/paillier"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk"
 	"github.com/gtank/merlin"
 	"github.com/stretchr/testify/require"
 )

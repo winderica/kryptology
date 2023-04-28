@@ -6,7 +6,7 @@ import (
 
 	"github.com/coinbase/kryptology/pkg/core/curves"
 	"github.com/coinbase/kryptology/pkg/ot/base/simplest"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/dkg"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/dkg"
 	"github.com/coinbase/kryptology/pkg/zkp/schnorr"
 )
 

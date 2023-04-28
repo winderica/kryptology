@@ -12,7 +12,7 @@ import (
 	"github.com/coinbase/kryptology/pkg/ot/extension/kos"
 	"github.com/coinbase/kryptology/pkg/ot/ottest"
 	"github.com/coinbase/kryptology/pkg/paillier"
-	mta_paillier "github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier"
+	mta_paillier "github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier"
 )
 
 func TestDkg(t *testing.T) {

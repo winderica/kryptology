@@ -5,7 +5,7 @@ import (
 	"math/big"
 
 	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/sign_offline"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/sign_offline"
 )
 
 // Alice struct encoding Alice's state during one execution of the overall signing algorithm.
