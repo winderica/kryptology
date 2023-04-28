@@ -5,7 +5,7 @@ import (
 	"math/big"
 
 	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk"
+	"github.com/The9born/kryptology/pkg/tecdsa/2ecdsa/mta/paillier/zk"
 
 	"github.com/gtank/merlin"
 )
